@@ -28,7 +28,7 @@ Requisiti
 Compiler: C++23 compatibile
 Sistema Operativo: Windows (per PCAN)
 Hardware: Dispositivo PCAN USB
-Librerie: PCANBasic (inclusa)
+Librerie esterne: API PCAN-Basic. Devi installare i driver e i file di sviluppo dell'API PCAN-Basic dal sito ufficiale di PEAK-System. https://www.peak-system.com/Downloads.76.0.html?&L=1
 
 Build
 Il progetto utilizza CMake:
