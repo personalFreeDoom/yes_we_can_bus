@@ -46,8 +46,7 @@ cmake --build .
 
 ### Dependencies
 
-- `PCANBasic.lib` - PCAN library (included in `/Pcan`)
-- `PCANBasic.dll` - PCAN DLL (automatically copied)
+- This project relies on the PCAN-Basic API for communication with PCAN devices. You must install the official drivers and development files from the PEAK-System website.
 
 ## Usage
 
