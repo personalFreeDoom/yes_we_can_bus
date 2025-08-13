@@ -1,6 +1,6 @@
 # yes_we_can_bus
 
-A C++23 system for CAN bus communication validation and testing using the Adapter pattern to interface with PCAN devices.
+A C++23 system for CAN bus communication validation and testing using the Adapter pattern to interface with CAN devices.
 
 ## Features
 
@@ -31,7 +31,7 @@ A C++23 system for CAN bus communication validation and testing using the Adapte
 - **Compiler**: C++23 compatible
 - **Operating System**: Windows (for PCAN)
 - **Hardware**: PCAN USB device
-- **Libraries**: PCANBasic (included)
+- **Libraries**: External Libraries: PCAN-Basic API. You must install the PCAN-Basic API drivers and development files from the official PEAK-System website. https://www.peak-system.com/Downloads.76.0.html?&L=1
 
 ## Build
 
